@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**damienlagae/damienlagae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Damien Lagae: Full stack web developer, handyman, husband and father of :girl: Lise & :boy: Lucas. 
 
-Here are some ideas to get you started:
+I work at <a href="https://enabel.be">enabel.be</a>, a company based in 🇧🇪 Belgium,where I am Analyst-Developer. Our company implement the Belgian governmental cooperation in its 14 partner countries. We also provide our expertise to other donors. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you find yourself looking for a new challenge, I would love to work with you to create software for a fair world.
+
+:mailbox: How to reach me: 
+* instagram: <a href="https://instagram.com/damienlagae">@damienlagae</a>
+* twitter: <a href="https://instagram.com/damienlagae">@damienlagae</a>
+* github : <a href="https://github.com/damienlagae">@damienlagae</a>
+
+:construction: I’m currently working on a data platform, XRM and another cool stuff
+
+:wrench: I’m currently working with:
+* Symfony
+* ReactJS
+* Webpack
+* PHP
+* MariaDB
+* Docker
+* Github Action
+* ETL Talend
+* PHPStorm :heart_eyes:
+
+See you around a :beer: at a [tech/php/symfony/...]conference

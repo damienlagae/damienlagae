@@ -24,4 +24,6 @@ If you find yourself looking for a new challenge, I would love to work with you 
 * ETL Talend
 * PHPStorm :heart_eyes:
 
-See you around a :beer: at a [tech/php/symfony/...]conference
+:zap: Fun fact: I turn :coffee: and :pizza: into beautiful web application
+
+See you around a :beers: at a [tech/php/symfony/...]conference

@@ -27,3 +27,9 @@ If you find yourself looking for a new challenge, I would love to work with you 
 :zap: Fun fact: I turn :coffee: and :pizza: into beautiful web application
 
 See you around a :beers: at a [tech/php/symfony/...]conference
+
+<details>
+<summary> Want to see my github stats ? </summary>
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=damienlagae&count_private=true&show_icons=true&theme=gruvbox)
+</details>

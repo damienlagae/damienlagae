@@ -28,6 +28,8 @@ If you find yourself looking for a new challenge, I would love to work with you 
 
 See you around a :beers: at a [tech/php/symfony/...]conference
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L87XXQD)
+
 <details>
 <summary> Want to see my github stats ? </summary>
 

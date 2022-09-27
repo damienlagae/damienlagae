@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am Damien Lagae: Full Stack Senior Developer // PHP- Symfony, handyman, husband and father of :girl: Lise & :boy: Lucas. 
+I am Damien Lagae: Tech Lead / Full Stack Senior Developer // PHP- Symfony, handyman, husband and father of :girl: Lise & :boy: Lucas. 
 
-I work at <a href="https://enabel.be">enabel.be</a>, a company based in 🇧🇪 Belgium,where I am Full Stack Senior Developer. Our company implement the Belgian governmental cooperation in its 14 partner countries. We also provide our expertise to other donors. 
+I work at <a href="https://enabel.be">enabel.be</a>, a company based in Belgium,where I am Full Stack Senior Developer. Our company implement the Belgian governmental cooperation in its 14 partner countries. We also provide our expertise to other donors. 
 
 If you find yourself looking for a new challenge, I would love to work with you to create software for a fair world.
 
@@ -18,17 +18,16 @@ If you find yourself looking for a new challenge, I would love to work with you 
 * ReactJS
 * Webpack
 * PHP
-* MariaDB
+* MariaDB/MySQL
 * Docker
 * Github Action
+* Azure DevOps
 * ETL Talend
 * PHPStorm :heart_eyes:
 
 :zap: Fun fact: I turn :coffee: and :pizza: into beautiful web application
 
 See you around a :beers: at a [tech/php/symfony/...]conference
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L87XXQD)
 
 <details>
 <summary> Want to see my github stats ? </summary>

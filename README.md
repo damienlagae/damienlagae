@@ -1,33 +1,32 @@
 ### Hi there 👋
 
-I am Damien Lagae: Tech Lead / Full Stack Senior Developer // PHP- Symfony, handyman, husband and father of :girl: Lise & :boy: Lucas. 
+I'm Damien Lagae: Tech Lead / Senior Developer // PHP - Symfony, team bike mechanic, husband and father of :girl: Lise & :boy: Lucas.
 
-I work at <a href="https://enabel.be">enabel.be</a>, a company based in Belgium,where I am Full Stack Senior Developer. Our company implement the Belgian governmental cooperation in its 14 partner countries. We also provide our expertise to other donors. 
+I work at <a href="https://enabel.be">Enabel</a>, the Belgian development agency, which implements the Belgian governmental cooperation in its partner countries. I lead the development of our in-house Symfony applications and maintain a few open source bundles under the <a href="https://github.com/enabel">@enabel</a> organization.
 
-If you find yourself looking for a new challenge, I would love to work with you to create software for a fair world.
+:package: Open source at Enabel:
+* [enabel/ux](https://github.com/enabel/ux): reusable Twig components and utilities for Symfony applications
+* [enabel/coding-standard](https://github.com/enabel/coding-standard): CLI tool to bootstrap coding standards, quality tools and CI for PHP/Symfony projects
+* [enabel/partner-countries-bundle](https://github.com/enabel/partner-countries-bundle): partner countries management for Symfony
+* [enabel/enabel-bootstrap-theme](https://github.com/enabel/enabel-bootstrap-theme): Enabel Bootstrap theme
 
-:mailbox: How to reach me: 
-* instagram: <a href="https://instagram.com/damienlagae">@damienlagae</a>
-* twitter: <a href="https://instagram.com/damienlagae">@damienlagae</a>
-* github : <a href="https://github.com/damienlagae">@damienlagae</a>
+:bike: On my free time I'm a mechanic for a cycling team, and I build tools for that too.
 
-:construction: I’m currently working on a data platform, XRM and another cool stuff
-
-:wrench: I’m currently working with:
-* Symfony
-* ReactJS
-* Webpack
-* PHP
-* MariaDB/MySQL
+:wrench: I'm currently working with:
+* PHP 8.4+ / Symfony 7.4+
+* MySQL / MariaDB, Redis
 * Docker
-* Github Action
-* Azure DevOps
-* ETL Talend
+* GitHub Actions, GitLab CI/CD, Azure DevOps
+* Upsun (Platform.sh), Azure
 * PHPStorm :heart_eyes:
 
-:zap: Fun fact: I turn :coffee: and :pizza: into beautiful web application
+:zap: Fun fact: I turn :coffee: and :pizza: into web applications
 
-See you around a :beers: at a [tech/php/symfony/...]conference
+:mailbox: How to reach me:
+* instagram: <a href="https://instagram.com/damienlagae">@damienlagae</a>
+* github: <a href="https://github.com/damienlagae">@damienlagae</a>
+
+See you around a :beers: at a [tech/php/symfony/...] conference
 
 <details>
 <summary> Want to see my github stats ? </summary>
